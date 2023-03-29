@@ -1,4 +1,4 @@
-# Project Name
+# A TRIBUTE PAGE
 
 > A tribute page built for certification using CSS and other tools best for designing.
 
@@ -7,15 +7,15 @@
 ## Built With
 
 - HTML5 elements
-  - `h1`, `div`, `figcaption`, `strong`, `img`, `section` etc.
+  - `div`, `figcaption`, `strong`, `img`, `section` etc.
 - CSS properties
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Background for page aesthetic using
-    `background`, .
+    `background` .
   - CSS Typography properties
-    `font-size`, `font-style`, `font-family`, `text-align`, `color`, etc
+    `font-size`, `font-style`, `font-family`, `text-align`, `color` etc
   - CSS Box Model properties
-    `border-bottom`,`padding`, `margin`, `width`, etc
+    `border-bottom`,`padding`, `margin`, `width` etc
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
